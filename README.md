@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning System Design and Customer Experience.
 - 📫 How to reach me: Drop me message on Pintrest : https://pin.it/1QOEfBAjO
 
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/it.girl_diaries) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//singhpalak/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4s5luj80U) 
